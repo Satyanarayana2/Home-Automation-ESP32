@@ -112,10 +112,3 @@ esp32-room-controller/
 Bug reports, feature requests and pull requests are welcome!
 Please open an issue for discussion before submitting major changes.
 
----
-
-## ⚖️ License
-
-This project is released under the MIT License.
-Feel free to use and modify for your own home-automation needs.
-
